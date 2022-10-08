@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2596be,100:009687&height=150&section=header)
-
 ![header](https://user-images.githubusercontent.com/115339354/194717920-d82d216f-be30-4655-8084-bf2bc8ea2d83.png)
 
 <div align = "center">
