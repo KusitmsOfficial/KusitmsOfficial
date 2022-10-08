@@ -43,4 +43,4 @@
   <a href="https://www.youtube.com/user/KUSITMS" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2596be,100:009687&height=200&section=footer)
